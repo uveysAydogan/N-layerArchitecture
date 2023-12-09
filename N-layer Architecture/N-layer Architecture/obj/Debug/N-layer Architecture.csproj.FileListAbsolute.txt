@@ -1,0 +1,17 @@
+C:\Users\Uveys\source\repos\N-layer Architecture\N-layer Architecture\bin\Debug\N-layer Architecture.exe.config
+C:\Users\Uveys\source\repos\N-layer Architecture\N-layer Architecture\bin\Debug\N-layer Architecture.exe
+C:\Users\Uveys\source\repos\N-layer Architecture\N-layer Architecture\bin\Debug\N-layer Architecture.pdb
+C:\Users\Uveys\source\repos\N-layer Architecture\N-layer Architecture\bin\Debug\DataAccessLayer.dll
+C:\Users\Uveys\source\repos\N-layer Architecture\N-layer Architecture\bin\Debug\EntityLayer.dll
+C:\Users\Uveys\source\repos\N-layer Architecture\N-layer Architecture\bin\Debug\LogicLayer.dll
+C:\Users\Uveys\source\repos\N-layer Architecture\N-layer Architecture\bin\Debug\DataAccessLayer.pdb
+C:\Users\Uveys\source\repos\N-layer Architecture\N-layer Architecture\bin\Debug\EntityLayer.pdb
+C:\Users\Uveys\source\repos\N-layer Architecture\N-layer Architecture\bin\Debug\LogicLayer.pdb
+C:\Users\Uveys\source\repos\N-layer Architecture\N-layer Architecture\obj\Debug\N-layer Architecture.csproj.AssemblyReference.cache
+C:\Users\Uveys\source\repos\N-layer Architecture\N-layer Architecture\obj\Debug\N_layer_Architecture.Form1.resources
+C:\Users\Uveys\source\repos\N-layer Architecture\N-layer Architecture\obj\Debug\N_layer_Architecture.Properties.Resources.resources
+C:\Users\Uveys\source\repos\N-layer Architecture\N-layer Architecture\obj\Debug\N-layer Architecture.csproj.GenerateResource.cache
+C:\Users\Uveys\source\repos\N-layer Architecture\N-layer Architecture\obj\Debug\N-layer Architecture.csproj.CoreCompileInputs.cache
+C:\Users\Uveys\source\repos\N-layer Architecture\N-layer Architecture\obj\Debug\N-layer Architecture.csproj.CopyComplete
+C:\Users\Uveys\source\repos\N-layer Architecture\N-layer Architecture\obj\Debug\N-layer Architecture.exe
+C:\Users\Uveys\source\repos\N-layer Architecture\N-layer Architecture\obj\Debug\N-layer Architecture.pdb

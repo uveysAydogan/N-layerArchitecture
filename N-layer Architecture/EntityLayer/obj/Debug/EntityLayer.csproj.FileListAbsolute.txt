@@ -1,0 +1,6 @@
+C:\Users\Uveys\source\repos\N-layer Architecture\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Uveys\source\repos\N-layer Architecture\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Uveys\source\repos\N-layer Architecture\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Uveys\source\repos\N-layer Architecture\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Uveys\source\repos\N-layer Architecture\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Uveys\source\repos\N-layer Architecture\EntityLayer\obj\Debug\EntityLayer.pdb
